@@ -11,5 +11,5 @@ hello
 | ![](https://img.shields.io/static/v1?label=&message=MLVC-MODEL&color=635BFF) | Python     | Flask     | Production model  |
 | ![](https://img.shields.io/static/v1?label=&message=MLVC-APP&color=3CA6A6)   | Typescript | React js  | Web prototype     |
 
-![Technology Stack](../assets/repo-stack-dark.drawio.png)
+![Technology Stack](/assets/repo-stack-dark.drawio.png)
 
