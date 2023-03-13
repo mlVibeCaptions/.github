@@ -1,6 +1,10 @@
-```bash
-hello
-```
+## Machine Learning Vibe Captions: [MLVC]
+### Machine Learning Vibe Captions: A deep learning research project on convolutional neural networks and audio classification
+
+
+## Technology Stack
+![Technology Stack](/assets/repo-stack-dark.drawio.png)
+
 ## Repositories
 
 | App                                                                          | Language   | Framework | Type              |
@@ -10,6 +14,4 @@ hello
 | ![](https://img.shields.io/static/v1?label=&message=MLVC-AUDIO&color=1E7FFF) | Python     | Pytorch   | Development model |
 | ![](https://img.shields.io/static/v1?label=&message=MLVC-MODEL&color=635BFF) | Python     | Flask     | Production model  |
 | ![](https://img.shields.io/static/v1?label=&message=MLVC-APP&color=3CA6A6)   | Typescript | React js  | Web prototype     |
-
-![Technology Stack](/assets/repo-stack-dark.drawio.png)
 
